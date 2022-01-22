@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="ValdrDarmir | Discord" width="22px" <img src="https://img.icons8.com/ios-glyphs/30/000000/discord-logo.png"/> [discord]
+<img align="left" alt="ValdrDarmir | Discord" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/discord-logo.png"/> [discord]
 
 <br />
 
