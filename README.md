@@ -2,7 +2,7 @@
 
 ## Ich bin Student, Gamer und Programmierer!!
 
-- Aktuell im fünften Medieninformatiksemester an der Universität Regensburg [universität]
+- Aktuell im fünften Medieninformatiksemester an der [Universität Regensburg].
 - 🥅 2022 Ziele: Mehr programmieren
 - ⚡ Fun fact: Ich spiele gerne Computerspiele
 
@@ -36,4 +36,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valdrdarmir)](https://github.com/anuraghazra/github-readme-stats)
 
 [discord]: https://discord.com/
-[universität]: https://www.uni-regensburg.de/
+[Universität Regensburg]: https://www.uni-regensburg.de/
