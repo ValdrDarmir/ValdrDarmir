@@ -2,8 +2,8 @@
 
 ## Ich bin Student, Gamer und Programmierer!!
 
-- Aktuell im fünften Medieninformatiksemester an der [Universität Regensburg].
-- 🥅 2022 Ziele: Mehr programmieren
+- Aktuell im dritten Semester Master of Science Medieninformatik an der [Universität Regensburg].
+- 🥅 2023 Ziele: Mehr programmieren
 - ⚡ Fun fact: Ich spiele gerne Computerspiele
 
 ### Connect with me:
